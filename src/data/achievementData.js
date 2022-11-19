@@ -1,38 +1,38 @@
 export const achievementData = {
-    bio : "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. - Alvin Toffler",
+    bio : "“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis",
     achievements : [
         {
             id : 1,
-            title : '2021 Complete Python Bootcamp From Zero to Hero in Python',
-            details : 'A python course from Udemy',
-            date : 'Jan 28, 2021',
+            title : 'The Complete 2021 Web Development Bootcamp',
+            details : 'A full stack development course from Udemy',
+            date : '07/11/2021',
             field : 'Coding',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-0cd075aa-f55b-4d9f-aec0-119020a4e792.jpg?v=1611846350000'
+            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-e49d4e88-e367-4e21-906a-f6dd685cbc5a.jpg?v=1626011328000'
         },
         {
             id : 2,
-            title : 'The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert',
-            details : 'A MySQL course from Udemy',
-            date : 'May 25, 2021',
-            field : 'Database',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-91ae3ea2-39ee-4a57-bf23-d397aff0d9a7.jpg?v=1621951317000'
+            title : ' Search Engine Optimization Made Easy [ Learn SEO Today]',
+            details : 'A SEO course from Udemy',
+            date : '11/19/2022',
+            field : 'SEO',
+            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-07ad3b3a-33ce-451e-8fd4-96ccb068b3fb.jpg?v=1668858029000'
         },
         {
             id : 3,
-            title : 'Machine Learning A-Z: Hands-On Python & R in Data Science',
-            details : 'Data Science Course from Udemy',
-            date : 'Apr 13, 2021',
-            field : 'Machine Learning',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-d9a7ba99-8635-47e6-96fc-7dd26a3dcbf1.jpg?v=1618297236000'
+            title : 'Free SEO Training For Beginners ',
+            details : 'A SEO Course from Udemy',
+            date : '11/19/2022',
+            field : 'SEO',
+            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-821100c7-e194-4ebe-b23c-bc07e60358aa.jpg?v=1668858482000'
         },
-        {
-            id : 3,
-            title : 'R Programming A-Z: R For Data Science With Real Exercises!',
-            details : 'R Programming Language Course from Udemy',
-            date : 'Feb 28, 2021',
-            field : 'Data Science',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
-        }
+        // {
+        //     id : 3,
+        //     title : 'R Programming A-Z: R For Data Science With Real Exercises!',
+        //     details : 'R Programming Language Course from Udemy',
+        //     date : 'Feb 28, 2021',
+        //     field : 'Data Science',
+        //     image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
+        // }
 
     ]
 }

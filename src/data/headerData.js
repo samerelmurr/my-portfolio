@@ -1,9 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
+import pp from "../assets/png/CtrlAltCodigoPic.png"
 
 export const headerData = {
-    name: 'Sreerag Rajan',
-    title: "Web Developer",
-    desciption:"Life may be a meandering path but don't worry about it, rather enjoy it. It is about the journey, not the destination so explore all that comes your way, learn and grow from it, for this journey only happens once.",
-    image: 'https://avatars.githubusercontent.com/u/85482640?v=4',
+    name: 'Samer El-Murr',
+    title: "Full Stack Developer",
+    desciption:"Knowledgeable Full Stack Developer with 2+ years of experience in the field. Proficient in JavaScript, React, Node.js, and MongoDB/PostgreSQL. Seeking to leverage my skills and experience to help your company achieve its goals.",
+    image: pp,
     resumePdf: resume
 }

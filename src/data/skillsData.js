@@ -3,10 +3,14 @@
     'Javascript',
     'CSS',
     'React',
-    'Django',
+    'Next.js',
+    'PHP',
     'MongoDB',
     'MySQL',
-    'Python'
+    'Typescript',
+    'Node.js',
+    'Express',
+
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -15,10 +19,10 @@
 
 // AVAILABLE SKILLS
 
-/* 
+/*
     HTML
     CSS
-    JS 
+    JS
     React
     Next JS
     Nuxt JS
